@@ -22,13 +22,13 @@ function createMap() {
 
     //creating the map object
     let myMap = L.map("map-container", {
-        center: [53.73, -1.87],
+        center: [53.71, -1.86],
         zoom: 11,
         layers: [streetMap, accidents2017, accidents2018, accidents2019, accidents2020]
     });
 
     //add to map
-    L.control.layers(baseMaps).addTo(myMap);
+    // L.control.layers(baseMaps).addTo(myMap);
 
     return myMap;   
 }
@@ -60,10 +60,10 @@ function createMarkers(response, layerGroup) {
 
 // local location of geoJSON files
 let jsonFiles = [
-    "Data/Accident_2017.geojson",
-    "Data/Accident_2018.geojson",
-    "Data/Accident_2019.geojson",
-    "Data/Accident_2020.geojson"
+    "/Data/geojson/Accident_2017.geojson",
+    "/Data/geojson/Accident_2018.geojson",
+    "/Data/geojson/Accident_2019.geojson",
+    "/Data/geojson/Accident_2020.geojson"
 ];
 // github links to raw data
 // let jsonFiles = [
@@ -102,5 +102,5 @@ Promise.all(jsonFiles.map(file => d3.json(file))).then(function(responses) {
         });
     }
     //add the control to allow users to turn layers on and off
-    L.control.layers(baseMaps, overlayMaps).addTo(map);
-});
+    L.control.layers(baseMaps, overlayMaps, {collapsed: false }).addTo(map);
+}); 

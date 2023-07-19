@@ -1,0 +1,315 @@
+Reference Number,Number of Vehicles,Accident Date,Time (24hr),1st Road Class,Road Surface,Lighting Conditions,Weather Conditions,Type of Vehicle 1,Casualty Class 1,Casualty Severity 1
+5131732,2,03/01/2018,2054,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Car,Driver or rider,Slight
+5140196,2,04/01/2018,551,A,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Car,Driver or rider,Slight
+5151479,2,05/01/2018,1650,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+51A0239,2,10/01/2018,744,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Motorcycle over 50cc and up to 125cc,Driver or rider,Slight
+5.1E+227,4,14/01/2018,348,Motorway,Wet / Damp,Darkness: street lighting unknown,Fine without high winds,Car,Driver or rider,Slight
+51E0855,2,14/01/2018,1325,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+51E1541,2,14/01/2018,1915,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Serious
+51E1807,2,14/01/2018,2030,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Taxi/Private hire car,Driver or rider,Slight
+51G0202,1,16/01/2018,714,Unclassified,Frost / Ice,Darkness: no street lighting,Fine without high winds,M/cycle 50cc and under,Driver or rider,Slight
+51G0210,1,16/01/2018,630,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+51G0850,1,16/01/2018,1533,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+51G1381,1,17/01/2018,1743,Unclassified,Snow,Darkness: street lights present and lit,Snowing without high winds,Car,Driver or rider,Slight
+51H0673,2,16/01/2018,2045,Unclassified,Frost / Ice,Darkness: street lights present and lit,Snowing without high winds,Car,Driver or rider,Slight
+51J0377,1,19/01/2018,830,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Pedestrian,Serious
+51J0860,2,19/01/2018,1330,Unclassified,Wet / Damp,Daylight: street lights present,Snowing without high winds,Car,Driver or rider,Slight
+51K1427,3,20/01/2018,1857,Unclassified,Wet / Damp,Darkness: street lights present and lit,Other,Car,Driver or rider,Slight
+51L0955,2,21/01/2018,955,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+51O1705,2,24/01/2018,1640,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+51P0335,2,25/01/2018,906,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+51P0705,2,25/01/2018,1225,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+51P1126,1,25/01/2018,1611,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+51Q1653,1,25/01/2018,2125,Unclassified,Snow,Darkness: street lights present but unlit,Other,Car,Pedestrian,Slight
+51T0334,1,29/01/2018,845,Unclassified,Dry,Darkness: street lighting unknown,Fine without high winds,Car,Pedestrian,Slight
+51T0938,1,29/01/2018,1400,A,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 50cc and up to 125cc,Pedestrian,Slight
+51T1212,1,29/01/2018,1650,A,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+51U0217,2,30/01/2018,640,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Pedal cycle,Driver or rider,Serious
+5211329,2,01/02/2018,1730,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+5221131,2,02/02/2018,1520,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5241587,2,04/02/2018,1925,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Vehicle or pillion passenger,Serious
+5251301,2,05/02/2018,1557,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5280496,1,08/02/2018,945,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+52B0379,1,11/02/2018,625,A,Snow,Darkness: street lighting unknown,Fine with high winds,Car,Driver or rider,Slight
+52D1303,2,12/02/2018,1300,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+52D1587,2,13/02/2018,1934,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+5.2E+271,6,14/02/2018,804,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Goods vehicle 7.5 tonnes mgw and over,Driver or rider,Slight
+52G0476,1,16/02/2018,640,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+52G1371,2,16/02/2018,1713,Unclassified,Dry,Darkness: street lighting unknown,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+52I2016,1,18/02/2018,2345,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+52J0521,2,19/02/2018,1050,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+52L0707,3,21/02/2018,1230,A,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Slight
+52O0968,2,24/02/2018,1413,A,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+52R1698,2,27/02/2018,2055,Unclassified,Snow,Darkness: street lights present and lit,Snowing without high winds,Car,Driver or rider,Slight
+52S0441,1,28/02/2018,958,Unclassified,Snow,Daylight: street lights present,Snowing without high winds,Car,Driver or rider,Slight
+52S1118,2,28/02/2018,1502,Unclassified,Snow,Daylight: street lights present,Snowing without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Slight
+5320339,2,02/03/2018,851,Unclassified,Snow,Daylight: street lights present,Fine with high winds,Car,Driver or rider,Slight
+5321480,2,02/03/2018,900,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5341073,1,05/03/2018,1548,Unclassified,Frost / Ice,Daylight: street lights present,Snowing without high winds,Car,Vehicle or pillion passenger,Slight
+5370243,2,07/03/2018,620,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+5380415,3,08/03/2018,750,Unclassified,Snow,Daylight: street lights present,Snowing with high winds,Car,Driver or rider,Slight
+5390703,1,09/03/2018,1200,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+53C0288,1,12/03/2018,750,A,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Car,Pedestrian,Serious
+53C0410,1,12/03/2018,600,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+53C1292,1,12/03/2018,1615,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Pedal cycle,Pedestrian,Slight
+53D1184,1,13/03/2018,1530,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Pedestrian,Slight
+53F1015,1,15/03/2018,1015,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Goods vehicle 7.5 tonnes mgw and over,Pedestrian,Slight
+53F1328,2,15/03/2018,1714,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Driver or rider,Slight
+53F1984,2,15/03/2018,2305,A,Wet / Damp,Darkness: no street lighting,Fog or mist – if hazard,Car,Vehicle or pillion passenger,Slight
+53G1360,1,16/03/2018,1545,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+53H1616,1,17/03/2018,2001,Unclassified,Snow,Darkness: street lights present and lit,Snowing with high winds,Car,Vehicle or pillion passenger,Slight
+53I0292,1,18/03/2018,240,Unclassified,Snow,Darkness: street lights present and lit,Snowing with high winds,Taxi/Private hire car,Vehicle or pillion passenger,Slight
+53J1209,2,19/03/2018,835,Unclassified,Frost / Ice,Daylight: street lights present,Other,Car,Driver or rider,Slight
+53K0329,1,20/03/2018,839,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+53M0309,2,22/03/2018,815,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+53M0361,2,21/03/2018,930,A,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Serious
+53M0462,2,22/03/2018,948,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Slight
+53N0990,2,23/03/2018,1418,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+53O0768,4,24/03/2018,1144,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+53O1841,2,18/03/2018,2223,Motorway,Snow,Darkness: street lights present and lit,Fine with high winds,Car,Driver or rider,Slight
+53Q0544,1,26/03/2018,1108,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+53Q0908,2,26/03/2018,1412,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+53S0802,2,28/03/2018,1310,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+53S1233,1,28/03/2018,1553,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+53T1209,1,28/03/2018,1230,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Bus or coach (17 or more passenger seats),Vehicle or pillion passenger,Serious
+53U0686,2,30/03/2018,1145,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Fatal
+5410154,2,01/04/2018,117,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Serious
+5421362,1,02/04/2018,1820,Motorway,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Driver or rider,Slight
+5431534,2,03/04/2018,1755,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5431566,1,03/04/2018,1853,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+5450547,2,05/04/2018,1114,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5450605,2,05/04/2018,1145,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Fatal
+5470735,2,07/04/2018,1055,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Slight
+54A1662,2,10/04/2018,1950,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fog or mist – if hazard,Car,Driver or rider,Slight
+54B0983,2,11/04/2018,1525,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+54B1420,3,11/04/2018,1900,Motorway,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+54C1022,1,12/04/2018,1530,A,Dry,Daylight: street lights present,Raining without high winds,Goods vehicle over 3.5 tonnes and under 7.5 tonnes mgw,Pedestrian,Slight
+54G0834,1,16/04/2018,1312,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+54H0181,1,17/04/2018,334,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+54H1759,2,17/04/2018,2050,Unclassified,Dry,Darkness: no street lighting,Fine without high winds,Car,Driver or rider,Slight
+54I0244,3,18/04/2018,702,B,Dry,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Serious
+54I1035,2,18/04/2018,1455,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+54K2239,1,20/04/2018,2318,A,Dry,Darkness: no street lighting,Fine without high winds,Car,Driver or rider,Slight
+54O0346,1,24/04/2018,814,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+54O1465,1,24/04/2018,1759,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+54P0240,2,25/04/2018,739,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+54R0904,2,24/04/2018,810,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Bus or coach (17 or more passenger seats),Driver or rider,Slight
+54T0046,2,29/04/2018,20,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+5510970,2,01/05/2018,1425,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Slight
+5571302,2,07/05/2018,1607,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5580398,2,08/05/2018,825,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5581544,2,08/05/2018,1735,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Driver or rider,Slight
+55B1045,3,11/05/2018,1415,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 50cc and up to 125cc,Driver or rider,Serious
+55C0614,1,12/05/2018,1018,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+55F0301,1,15/05/2018,812,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+55F0771,2,15/05/2018,1245,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+55F1579,3,15/05/2018,1815,A,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Serious
+55H1114,2,17/05/2018,1518,A,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 500cc,Driver or rider,Serious
+55I1762,1,18/05/2018,1931,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+55I1816,2,18/05/2018,1830,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+55J1548,2,19/05/2018,1853,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+55J2098,2,19/05/2018,2300,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+55K1261,2,20/05/2018,1607,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Slight
+55L2017,2,21/05/2018,1930,A,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 50cc and up to 125cc,Driver or rider,Slight
+55M0801,2,23/05/2018,1200,A,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+55M1519,2,22/05/2018,1720,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+55M2071,2,23/05/2018,38,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+55N1521,1,23/05/2018,1820,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+55Q0970,2,26/05/2018,1315,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+55U1387,1,30/05/2018,1815,A,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+55V0612,3,31/05/2018,1046,A,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5610656,4,01/06/2018,1100,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5611051,2,01/06/2018,1405,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5611735,2,01/06/2018,1545,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5630280,2,03/06/2018,242,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5640367,2,04/06/2018,755,A,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Serious
+5640948,3,04/06/2018,1340,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5650808,3,05/06/2018,1320,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5671714,2,07/06/2018,1640,A,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5692198,2,09/06/2018,2330,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+56C0930,2,12/06/2018,1405,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+56C1054,1,14/06/2018,850,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+56C1338,2,12/06/2018,1658,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+56D0393,2,13/06/2018,852,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+56E0645,2,14/06/2018,1049,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+56F1049,2,15/06/2018,1452,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+56F1467,2,15/06/2018,1755,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 50cc and up to 125cc,Driver or rider,Serious
+56G1182,2,16/06/2018,1520,Motorway,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Driver or rider,Slight
+56G1338,1,16/06/2018,1650,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Bus or coach (17 or more passenger seats),Pedestrian,Serious
+56I0659,2,18/06/2018,1135,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+56J0695,2,19/06/2018,1130,A,Dry,Daylight: street lights present,Fine without high winds,Bus or coach (17 or more passenger seats),Driver or rider,Slight
+56K0799,1,20/06/2018,1250,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+56K0956,2,20/06/2018,1415,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+56M1039,2,22/06/2018,1431,B,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+56O0150,3,24/06/2018,200,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+56O0904,2,24/06/2018,1319,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+56O1289,2,24/06/2018,1625,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Slight
+56P1809,2,25/06/2018,1937,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+56Q1217,2,26/06/2018,1540,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Mobility Scooter,Driver or rider,Slight
+56R0438,1,27/06/2018,715,B,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+56R0589,1,27/06/2018,1012,A,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 500cc,Driver or rider,Slight
+56R1098,2,27/06/2018,1429,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+56S0814,2,28/06/2018,1235,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+56T0401,2,29/06/2018,730,A,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 500cc,Driver or rider,Slight
+56T1002,3,29/06/2018,929,A,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Slight
+56T1095,1,29/06/2018,1328,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+56T1354,2,29/06/2018,1529,A,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+56U0788,3,30/06/2018,1045,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5721915,2,02/07/2018,2019,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5731154,2,03/07/2018,1537,A,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5731405,2,03/07/2018,1730,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5740392,2,04/07/2018,734,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5741082,2,04/07/2018,1450,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5751089,2,05/07/2018,1512,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5761064,2,06/07/2018,1416,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5770613,2,07/07/2018,820,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Slight
+5772021,2,07/07/2018,2005,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+57E1696,2,14/07/2018,1915,A,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 500cc,Driver or rider,Serious
+57G1224,1,16/07/2018,1200,A,Dry,Daylight: street lights present,Fine without high winds,Bus or coach (17 or more passenger seats),Vehicle or pillion passenger,Slight
+57H0345,2,17/07/2018,741,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+57I0434,1,18/07/2018,850,A,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+57I1719,3,18/07/2018,1923,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+57J1579,2,19/07/2018,1745,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+57J2063,2,19/07/2018,1800,A,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+57K0916,2,20/07/2018,1255,A,Dry,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Serious
+57L0209,2,21/07/2018,209,A,Dry,Darkness: street lights present and lit,Fine without high winds,Taxi/Private hire car,Driver or rider,Slight
+57M1391,2,22/07/2018,1610,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Serious
+57O0694,2,24/07/2018,1110,A,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+57O1378,1,24/07/2018,1620,A,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Driver or rider,Slight
+57Q0706,2,26/07/2018,1105,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+57Q1776,2,26/07/2018,1917,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+57R0526,1,27/07/2018,930,B,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 125cc and up to 500cc,Driver or rider,Slight
+57R1301,2,27/07/2018,1545,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+57T0064,2,29/07/2018,30,A,Dry,Darkness: street lights present and lit,Fine without high winds,Taxi/Private hire car,Driver or rider,Slight
+57T0451,1,08/07/2018,450,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5811855,2,01/08/2018,2000,A,Dry,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Serious
+5821089,1,02/08/2018,1420,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5851091,1,05/08/2018,1945,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+5870365,2,07/08/2018,718,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5881724,2,08/08/2018,2023,B,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 125cc and up to 500cc,Driver or rider,Serious
+5891292,1,09/08/2018,1710,A,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+58B0512,3,11/08/2018,855,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+58D1504,2,13/08/2018,1750,A,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Vehicle or pillion passenger,Slight
+58F0131,1,15/08/2018,130,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+58H1527,2,17/08/2018,1742,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Vehicle or pillion passenger,Slight
+58I1293,1,18/08/2018,1520,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+58J1999,4,19/08/2018,2211,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+58K0262,1,20/08/2018,610,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Serious
+58L1641,2,21/08/2018,1755,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+58M1563,4,22/08/2018,1800,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+58M1993,2,22/08/2018,2136,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+58O0927,3,24/08/2018,1345,Motorway,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Driver or rider,Slight
+58O1004,1,24/08/2018,1425,Unclassified,Dry,Daylight: street lights present,Fine without high winds,M/cycle 50cc and under,Driver or rider,Slight
+58P1039,2,25/08/2018,1409,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Slight
+58Q1253,2,26/08/2018,1613,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+58T0966,2,29/08/2018,1421,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+58U0255,1,30/08/2018,645,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Serious
+5920988,2,02/09/2018,1252,A,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5921067,1,02/09/2018,1328,Motorway,Dry,Daylight: street lights present,Fine without high winds,Other Vehicle ,Driver or rider,Serious
+5930341,3,03/09/2018,738,Motorway,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle over 3.5 tonnes and under 7.5 tonnes mgw,Driver or rider,Slight
+5961432,2,06/09/2018,1848,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Taxi/Private hire car,Driver or rider,Slight
+5961845,1,06/09/2018,2230,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Taxi/Private hire car,Pedestrian,Slight
+5971462,2,07/09/2018,1711,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+59A2121,1,10/09/2018,2333,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Car,Vehicle or pillion passenger,Serious
+59C0649,1,12/09/2018,1143,A,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 500cc,Driver or rider,Serious
+59C1950,4,12/09/2018,2100,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Serious
+59D0245,2,13/09/2018,749,B,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 50cc and up to 125cc,Driver or rider,Slight
+59D1742,2,13/09/2018,2102,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+59E0388,1,14/09/2018,843,A,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Driver or rider,Slight
+59F2180,1,15/09/2018,2200,A,Dry,Darkness: street lights present and lit,Fine without high winds,Taxi/Private hire car,Vehicle or pillion passenger,Slight
+59G1340,2,16/09/2018,1550,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+59I0302,2,18/09/2018,805,A,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Driver or rider,Slight
+59L0862,2,21/09/2018,1230,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+59L1665,3,21/09/2018,2100,Motorway,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Taxi/Private hire car,Driver or rider,Slight
+59M0598,4,22/09/2018,1010,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+59M0718,1,22/09/2018,1113,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+59M0959,2,22/09/2018,1320,A,Dry,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Slight
+59N0678,2,23/09/2018,1050,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+59O1018,1,24/09/2018,1449,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+59Q1537,2,26/09/2018,1825,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+59R0430,2,27/09/2018,830,A,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 50cc and up to 125cc,Driver or rider,Slight
+59S0421,1,28/09/2018,920,A,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+59S1068,4,28/09/2018,1519,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+59S1561,2,28/09/2018,1715,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+59T1318,1,29/09/2018,1500,A,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+59T1937,1,29/09/2018,2107,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Fatal
+5A10776,1,01/10/2018,1900,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+5A20355,1,02/10/2018,907,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+5A20653,3,02/10/2018,1200,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5A51538,2,05/10/2018,1738,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Slight
+5A60931,1,06/10/2018,1350,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5A80001,2,08/10/2018,1035,A,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Slight
+5A81210,2,08/10/2018,1615,A,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Slight
+5A81323,2,08/10/2018,1710,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5AA1133,2,10/10/2018,1515,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+5AB0265,3,11/10/2018,711,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5AC0522,2,12/10/2018,1009,B,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Driver or rider,Slight
+5AD1426,2,13/10/2018,1520,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5AE1192,1,14/10/2018,1541,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Motorcycle over 50cc and up to 125cc,Driver or rider,Slight
+5AE1537,2,14/10/2018,2125,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5AF0225,2,15/10/2018,638,Motorway,Dry,Darkness: street lights present and lit,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Slight
+5AI0401,1,17/10/2018,1429,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Taxi/Private hire car,Pedestrian,Slight
+5AI0580,2,18/10/2018,1115,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5AI0806,2,18/10/2018,1329,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 125cc and up to 500cc,Driver or rider,Slight
+5AJ0953,2,19/10/2018,1430,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Slight
+5AJ1455,2,19/10/2018,1819,Motorway,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5AK1374,2,20/10/2018,1527,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Slight
+5AM0474,2,22/10/2018,1028,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5AM1129,2,22/10/2018,1537,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5AM1182,1,22/10/2018,1612,A,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5AM1312,2,22/10/2018,1655,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5AO0252,1,24/10/2018,709,A,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+5AO1120,2,24/10/2018,1515,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5AO1575,2,24/10/2018,1815,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5AP0984,3,25/10/2018,1414,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5AQ0478,2,26/10/2018,910,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5B51092,1,05/11/2018,1515,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+5B61029,2,06/11/2018,1354,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Vehicle or pillion passenger,Slight
+5B70355,2,07/11/2018,900,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Driver or rider,Slight
+5B71785,1,07/11/2018,1515,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+5B81395,1,08/11/2018,1722,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+5B81742,2,08/11/2018,1600,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5B91337,2,09/11/2018,1711,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Car,Vehicle or pillion passenger,Slight
+5BA1186,2,10/11/2018,1650,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+5BA1453,2,10/11/2018,1819,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+5BD1206,2,13/11/2018,1545,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Driver or rider,Slight
+5BD1869,2,13/11/2018,2053,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+5BG0100,1,16/11/2018,154,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Serious
+5BJ1430,2,19/11/2018,1430,A,Dry,Daylight: street lights present,Fine without high winds,Pedal cycle,Driver or rider,Slight
+5BK0232,6,20/11/2018,638,Motorway,Wet / Damp,Darkness: street lights present and lit,Raining with high winds,Car,Driver or rider,Slight
+5BK1237,1,20/11/2018,1725,A,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Car,Pedestrian,Slight
+5BM0656,5,22/11/2018,1230,Motorway,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Vehicle or pillion passenger,Slight
+5BM1089,1,22/11/2018,1621,A,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Car,Pedestrian,Serious
+5BM1195,1,22/11/2018,1710,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Goods vehicle 7.5 tonnes mgw and over,Pedestrian,Serious
+5BM1736,2,22/11/2018,2302,A,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Goods vehicle 7.5 tonnes mgw and over,Driver or rider,Slight
+5BO1706,2,24/11/2018,2002,Unclassified,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Serious
+5BR0311,2,27/11/2018,825,A,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5BR0388,2,27/11/2018,915,Motorway,Wet / Damp,Daylight: street lights present,Fog or mist – if hazard,Car,Driver or rider,Slight
+5BR1200,1,27/11/2018,1700,Unclassified,Wet / Damp,Darkness: no street lighting,Raining with high winds,Car,Pedestrian,Slight
+5BU1191,3,30/11/2018,1420,Unclassified,Wet / Damp,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5C11015,1,30/11/2018,1330,A,Wet / Damp,Daylight: street lights present,Raining without high winds,Bus or coach (17 or more passenger seats),Vehicle or pillion passenger,Slight
+5C20119,2,02/12/2018,105,A,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Taxi/Private hire car,Driver or rider,Serious
+5C21327,3,02/12/2018,1644,Motorway,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Car,Driver or rider,Slight
+5C41381,2,04/12/2018,1700,A,Wet / Damp,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Slight
+5C51152,2,05/12/2018,1618,A,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Car,Driver or rider,Slight
+5C60363,1,06/12/2018,850,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Pedestrian,Slight
+5C81534,2,08/12/2018,1910,A,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Car,Vehicle or pillion passenger,Slight
+5CB0655,2,11/12/2018,1143,A,Dry,Daylight: street lights present,Fine without high winds,Motorcycle over 50cc and up to 125cc,Driver or rider,Slight
+5CB1156,2,11/12/2018,1540,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5CB1505,1,11/12/2018,1805,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+5CC0275,1,12/12/2018,754,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Slight
+5CC0433,1,12/12/2018,1930,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+5CE0068,2,14/12/2018,103,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Driver or rider,Fatal
+5CG0091,1,16/12/2018,55,Unclassified,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Taxi/Private hire car,Pedestrian,Slight
+5CG1160,1,16/12/2018,1617,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+5CH0518,1,17/12/2018,1031,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Goods vehicle 3.5 tonnes mgw and under,Pedestrian,Slight
+5CJ1583,1,19/12/2018,1915,A,Wet / Damp,Darkness: street lights present but unlit,Raining without high winds,Car,Pedestrian,Serious
+5CL1609,1,21/12/2018,1900,A,Wet / Damp,Darkness: street lights present and lit,Raining without high winds,Car,Pedestrian,Slight
+5CM0536,2,22/12/2018,820,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Pedestrian,Serious
+5CN1599,1,23/12/2018,1500,Unclassified,Wet / Damp,Daylight: street lights present,Raining without high winds,Car,Pedestrian,Slight
+5CO0885,2,24/12/2018,1410,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Serious
+5CR1570,1,27/12/2018,1930,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+5CT0620,2,29/12/2018,1115,Unclassified,Dry,Daylight: street lights present,Fine without high winds,Car,Driver or rider,Slight
+5CU1368,1,29/12/2018,2030,A,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+5CV1342,1,31/12/2018,1830,Unclassified,Dry,Darkness: street lights present and lit,Fine without high winds,Car,Pedestrian,Slight
+6121478,2,31/12/2018,2359,A,Dry,Darkness: street lights present and lit,Fine without high winds,Taxi/Private hire car,Vehicle or pillion passenger,Slight

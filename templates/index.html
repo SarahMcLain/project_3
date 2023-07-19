@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Accident Reports by Year</title>
+  <title>Know your Roads: Drive Safe, Stay Safe!</title>
 
   <!-- Our CSS -->
-  <link rel="stylesheet" type="text/css" href="../css/style.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
 
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
@@ -15,94 +15,72 @@
 </head>
 
 <body>
-
-
-  <h1>Accident Map</h1>
-    
-    <div>
-      <div id="map-container">
-        <div id="map"></div>
-      </div>
-
-      <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-        crossorigin=""></script>
-      <!-- Leaflet heatmap plugin-->
-      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.1/leaflet.markercluster.js"></script>
-      <!-- D3 JavaScript -->
-      <script src="https://d3js.org/d3.v7.min.js"></script>
-      <!-- Our JavaScript -->
-      <script type="text/javascript" src="../js/app.js"></script>
+  <h1>Know your Roads: Drive Safe, Stay Safe!</h1>
+  <p>Calderdale would like their citizens to be aware of the accidents that have occurred in our area. In order to increase safe driving practices we have commissioned this website so that you can see when, where, and under what conditions an accident happened every year.</p>
+  <h2>Accident Map</h2>
+  <div>
+    <div id="map-container">
+      <div id="map"></div>
     </div>
-  <h1>Accident Charts</h1>
-
-  <div class="content">
-    <div class="col-md-2">
-      <div class="well">
-        <h5>Year:</h5>
-        <select id="selDataset" onchange="changeData(this.value)">
-          <option value="2017">2017</option>
-          <option value="2018">2018</option>
-          <option value="2019">2019</option>
-          <option value="2020">2020</option>
-        </select>
-
-        <label for="bar-select">Select a Bar Graph:</label>
-        <select id="bar-select" onchange="toggleSelectedBar()">
-          <option value="bar1">Weather</option>
-          <option value="bar2">Lighting</option>
-          <option value="bar3">Road Surface</option>
-          <option value="bar4">Number of Vehicles</option>
-        </select>
-
-        <div class="bar" id="bar1"></div>
-        <div class="bar" id="bar2"></div>
-        <div class="bar" id="bar3"></div>
-        <div class="bar" id="bar4"></div>
-      </div>
-
-    <div class="pie" id="severity"></div>
-
-
-    <div class="pie" id="fatalWeatherPie"></div>
-
-    <div class="pie" id="fatalLightingPie"></div>
-
-    <div class="pie" id="fatalRoadPie"></div>
-
-    <div class="pie" id="fatalCarsPie"></div>
-
-
-    <div class="pie" id="severeWeatherPie"></div>
-
-    <div class="pie" id="severeLightingPie"></div>
-
-    <div class="pie" id="severeRoadPie"></div>
-
-    <div class="pie" id="severeCarsPie"></div>
-
-
-    <div class="pie" id="slightWeatherPie"></div>
-
-    <div class="pie" id="slightLightingPie"></div>
-
-    <div class="pie" id="slightRoadPie"></div>  
-
-    <div class="pie" id="slightCarsPie"></div>
-
   </div>
 
+  <h2>Accident Charts</h2>
+  <div class="year">
+    <h5>Year:</h5>
+    <select id="selDataset" onchange="changeData(this.value)">
+      <option value="2017">2017</option>
+      <option value="2018">2018</option>
+      <option value="2019">2019</option>
+      <option value="2020">2020</option>
+    </select>
+  </div>
 
+  <div class="selectors">
+    <h5>Select a Bar Graph:</h5>
+    <select id="bar-select" onchange="toggleSelectedBar()">
+      <option value="bar1">Weather</option>
+      <option value="bar2">Lighting</option>
+      <option value="bar3">Road Surface</option>
+      <option value="bar4">Number of Vehicles</option>
+    </select>
 
-  
+    <h5></h5>
+
+    <h5>Select a Pie Chart:</h5>
+    <select id="pie-select" onchange="toggleSelectedPie()">
+      <option value="severity">Severity Proportions</option>
+      <option value="fatalCarsPie">Vehicles in Fatal</option>
+      <option value="severeCarsPie">Vehicles in Severe</option>
+      <option value="slightCarsPie">Vehicles in Slight</option>
+    </select>
+  </div>
+
+  <div class="charts">
+    <div class="bar" id="bar1"></div>
+    <div class="bar" id="bar2"></div>
+    <div class="bar" id="bar3"></div>
+    <div class="bar" id="bar4"></div>
+
+    <div class="pie" id="severity"></div>
+    <div class="pie" id="fatalCarsPie"></div>
+    <div class="pie" id="severeCarsPie"></div>
+    <div class="pie" id="slightCarsPie"></div>
+  </div>
 
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="./js/dashboard.js"></script>
-  
-  
+  <script src="{{ url_for('static', filename= 'js/dashboard.js') }}"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+  crossorigin=""></script>
+<!-- D3 JavaScript -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<!-- Our JavaScript -->
+<script type="text/javascript" src="{{ url_for('static', filename= 'js/app.js') }}"></script>
+
   
 </body>
 </html>
+
 
 

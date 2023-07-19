@@ -1,0 +1,75 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* .background {
+  background-image: url("../images/Accident2.jpg");
+  opacity: 0.2;
+  z-index: -1;
+} */
+
+h1 {
+  text-align: center;
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  padding: 2
+}
+
+h5 {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0 auto;
+  width: 66%;
+}
+
+.year {
+  display: flex;
+  margin: 0 auto;
+}
+
+.selectors {
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr 1fr 1fr;
+  margin: 0 auto;
+}
+
+.charts{
+  display: flex;
+  margin: 0 auto;
+}
+
+.bar {
+  height: 500;
+  width: 45%;
+  padding: 20px;
+}
+
+.pie {
+  height: 500;
+  width: 45%;
+  padding: 20px;
+}
+
+#map-container {
+  height: 420px;
+  width: 80%;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+#map {
+  width: 400px; 
+  height: 400px; 
+}
