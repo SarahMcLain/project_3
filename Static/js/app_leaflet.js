@@ -1,4 +1,32 @@
-//Creating leaflet map object 
+ 
+ let iconOptions = {
+    iconSize: [28, 28],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+  };
+
+let redIcon = L.icon({
+    ...iconOptions, 
+    iconUrl: "../png/icons8-map-marker-48_red.png"
+});
+console.log('Red Icon:', redIcon.options.iconUrl, redIcon.options.iconSize);
+
+let blueIcon = L.icon({
+    ...iconOptions, 
+    iconUrl: "../png/icons8-map-marker-48_blue.png"
+});
+console.log('Blue Icon:', blueIcon.options.iconUrl, blueIcon.options.iconSize);
+
+let greenIcon = L.icon({
+    ...iconOptions, 
+    iconUrl: "../png/icons8-map-marker-48_green.png"
+});
+
+let yellowIcon = L.icon({
+    ...iconOptions, 
+    iconUrl: "../png/icons8-map-marker-48_yellow.png"
+});
+
 function createMap() {
    
     //adding tile layer
@@ -7,18 +35,15 @@ function createMap() {
     });
 
     //creating empty layer groups to hold the data
-    let accidents2017 = L.layerGroup();
-    let accidents2018 = L.layerGroup();
-    let accidents2019 = L.layerGroup();
-    let accidents2020 = L.layerGroup();
+    let accidents2017 = L.layerGroup({icon: redIcon});
+    let accidents2018 = L.layerGroup({icon: yellowIcon});
+    let accidents2019 = L.layerGroup({icon: greenIcon});
+    let accidents2020 = L.layerGroup({icon: blueIcon})
 
     //naming the base map
     let baseMaps = {
         "Street Map": streetMap
     };
-
-    //creating the overlay data
-    let overlayMaps = {};
 
     //creating the map object
     let myMap = L.map("map-container", {
@@ -29,11 +54,12 @@ function createMap() {
 
     //add to map
     L.control.layers(baseMaps).addTo(myMap);
-
+    console.log(yellowIcon);
     return myMap;   
 }
+
 //create the markers for accident location and add to layer group
-function createMarkers(response, layerGroup) {
+function createMarkers(response, layerGroup, icon) {
     //empty array to hold accident location data
     let markers = [];
     //loop through features in data for coordinates
@@ -42,7 +68,7 @@ function createMarkers(response, layerGroup) {
         let accident = feature.geometry;
         //create a marker where the accident happened
         let marker = L.marker([accident.coordinates[1],
-             accident.coordinates[0]]).bindPopup("Location: " + accident.coordinates
+             accident.coordinates[0]], {icon: icon}).bindPopup("Location: " + accident.coordinates
              + "<br> Accident Date: " + feature.properties["Accident Date"]
              + "<br> Time (24hr): " + feature.properties["Time (24hr)"]
              + "<br> Vehicles Involved: " + feature.properties["Number of Vehicles"] 
@@ -55,15 +81,18 @@ function createMarkers(response, layerGroup) {
     // add each marker to layer group
     markers.forEach(function(marker) {
         layerGroup.addLayer(marker);
+    
+    
+
     });   
 }
 
 // local location of geoJSON files
 let jsonFiles = [
-    "Data/accidents_2017.geojson",
-    "Data/accidents_2018.geojson",
-    "Data/accidents_2019.geojson",
-    "Data/accidents_2020.geojson"
+    "Data/geo_json/accidents_2017.geojson",
+    "Data/geo_json/accidents_2018.geojson",
+    "Data/geo_json/accidents_2019.geojson",
+    "Data/geo_json/accidents_2020.geojson"
 ];
 // github links to raw data
 // let jsonFiles = [
@@ -76,6 +105,7 @@ let jsonFiles = [
 let map = createMap();
 let layerGroups = [];
 
+
 //load the json files with promise.all 
 Promise.all(jsonFiles.map(file => d3.json(file))).then(function(responses) {
     let baseMaps = {
@@ -87,7 +117,17 @@ Promise.all(jsonFiles.map(file => d3.json(file))).then(function(responses) {
     responses.forEach(function(response, index) {
         let year = 2017 + index;
         let layerGroup = L.layerGroup();
-        createMarkers(response, layerGroup);
+        let icon;
+            if(index===0) {
+                icon = redIcon;
+            } else if (index === 1) {
+                icon = yellowIcon
+            } else if (index === 2) {
+                icon = greenIcon
+            } else if (index === 3) {
+                icon = blueIcon
+            }
+        createMarkers(response, layerGroup, icon);
         layerGroups.push(layerGroup);
         overlayMaps["accidents" + year] = layerGroup;
     });
@@ -101,6 +141,10 @@ Promise.all(jsonFiles.map(file => d3.json(file))).then(function(responses) {
             }
         });
     }
+    changeYear(2017)
     //add the control to allow users to turn layers on and off
     L.control.layers(baseMaps, overlayMaps).addTo(map);
 });
+
+
+
