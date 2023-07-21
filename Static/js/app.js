@@ -88,7 +88,7 @@ function createMarkers(response, layerGroup, icon) {
     });   
 }
 
-// local location of geoJSON files
+// External links of geoJSON files
 let jsonFiles = [
     "https://dataworks.calderdale.gov.uk/download/24qdx/29j/Accident%202017.geojson",
     "https://dataworks.calderdale.gov.uk/download/24qdx/enf/accident%202018.geojson",
