@@ -15,7 +15,7 @@ Accident2018 = Base.classes.Accident_2018
 Accident2019 = Base.classes.Accident_2019
 Accident2020 = Base.classes.Accident_2020
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='Static')
 
 @app.route("/")
 def index():

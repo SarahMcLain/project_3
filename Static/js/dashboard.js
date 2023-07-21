@@ -37,7 +37,19 @@
         // number of vehicles in accident vs time of day
         //edit geojson to get the day of the week
         
-            url = "/Data/geojson/Accident_" + sample + ".geojson"
+        let url;
+        if (sample === 2017) {
+            url = "https://dataworks.calderdale.gov.uk/download/24qdx/29j/Accident%202017.geojson";
+        } else if (sample === 2018) {
+            url = "https://dataworks.calderdale.gov.uk/download/24qdx/enf/accident%202018.geojson";
+        } else if (sample === 2019) {
+            url = "https://dataworks.calderdale.gov.uk/download/24qdx/qtk/Accidents%202019.geojson";
+        } else if (sample === 2020) {
+            url = "https://dataworks.calderdale.gov.uk/download/24qdx/zjf/Calderdale%20Collisions%202020%20SS.geojson";
+        } else {
+            console.log("Invalid sample year.");
+            return;
+        }
             
             d3.json(url).then((data) => {
         

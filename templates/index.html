@@ -1,17 +1,19 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Know your Roads: Drive Safe, Stay Safe!</title>
+<html lang="en">
 
-  <!-- Our CSS -->
-  <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Know your Roads: Drive Safe, Stay Safe!</title>
 
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
-  
-  
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" href="{{ url_for('static', filename= 'css/style.css') }}">
 </head>
 
 <body>
@@ -19,11 +21,12 @@
   <p>Calderdale would like their citizens to be aware of the accidents that have occurred in our area. In order to increase safe driving practices we have commissioned this website so that you can see when, where, and under what conditions an accident happened every year.</p>
   <h2>Accident Map</h2>
   <div>
+  <!-- The div that holds our map -->
     <div id="map-container">
-      <div id="map"></div>
+     <div id="map"></div>
     </div>
   </div>
-
+  
   <h2>Accident Charts</h2>
   <div class="year">
     <h5>Year:</h5>
@@ -67,20 +70,26 @@
     <div class="pie" id="slightCarsPie"></div>
   </div>
 
+  <!-- Leaflet JS -->
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="{{ url_for('static', filename= 'js/dashboard.js') }}"></script>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-  crossorigin=""></script>
-<!-- D3 JavaScript -->
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<!-- Our JavaScript -->
-<script type="text/javascript" src="{{ url_for('static', filename= 'js/app.js') }}"></script>
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+  <!-- Leaflet heatmap plugin-->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.1/leaflet.markercluster.js"></script>
+  <!-- D3 JavaScript -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!-- Our JavaScript -->
+  <script type="text/javascript" src="{{ url_for('static', filename= 'js/app.js') }}"></script>
 
+ 
   
-</body>
-</html>
+ 
 
+</body>
+
+</html>
 
 
