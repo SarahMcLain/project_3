@@ -1,6 +1,6 @@
  
  let iconOptions = {
-    iconSize: [28, 28],
+    iconSize: [20, 24],
     iconAnchor: [12, 41],
     popupAnchor: [1, -34],
   };
