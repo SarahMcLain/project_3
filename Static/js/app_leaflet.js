@@ -1,32 +1,33 @@
- 
- let iconOptions = {
+
+//creating icon parameters
+let iconOptions = {
     iconSize: [20, 24],
     iconAnchor: [12, 41],
     popupAnchor: [1, -34],
   };
-
+//create red icon w/ local url
 let redIcon = L.icon({
     ...iconOptions, 
     iconUrl: "../png/icons8-map-marker-48_red.png"
 });
 console.log('Red Icon:', redIcon.options.iconUrl, redIcon.options.iconSize);
-
+//create blue icon w/ local url
 let blueIcon = L.icon({
     ...iconOptions, 
     iconUrl: "../png/icons8-map-marker-48_blue.png"
 });
 console.log('Blue Icon:', blueIcon.options.iconUrl, blueIcon.options.iconSize);
-
+//create green icon w/ local url
 let greenIcon = L.icon({
     ...iconOptions, 
     iconUrl: "../png/icons8-map-marker-48_green.png"
 });
-
+//create yellow icon w/ local url
 let yellowIcon = L.icon({
     ...iconOptions, 
     iconUrl: "../png/icons8-map-marker-48_yellow.png"
 });
-
+//create map object
 function createMap() {
    
     //adding tile layer
